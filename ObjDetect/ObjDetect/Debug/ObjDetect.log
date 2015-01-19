@@ -1,0 +1,39 @@
+﻿生成启动时间为 2015/1/14 15:44:37。
+     1>项目“D:\Project\ObjDetect\ObjDetect\ObjDetect.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ObjDetect.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Uic'ing objdetect.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.6\include /I.\GeneratedFiles\Debug /IC:\Qt\4.8.6\include\QtCore /IC:\Qt\4.8.6\include\QtGui /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FaceDetector.cpp GeneratedFiles\Debug\moc_MainWindow.cpp MainWindow.cpp main.cpp
+         FaceDetector.cpp
+         moc_MainWindow.cpp
+         MainWindow.cpp
+         main.cpp
+         正在生成代码...
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\ObjDetect\Bin\Debug\\目标识别.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.6\lib qtmaind.lib QtCored4.lib QtGuid4.lib opencv_core249d.lib opencv_highgui249d.lib opencv_objdetect249d.lib opencv_imgproc249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\目标识别.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Project\ObjDetect\Bin\Debug\目标识别.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\ObjDetect\Bin\Debug\目标识别.lib" /MACHINE:X86 Debug\eye.res
+         Debug\version.res
+         Debug\FaceDetector.obj
+         Debug\moc_MainWindow.obj
+         Debug\qrc_objdetect.obj
+         Debug\main.obj
+         Debug\MainWindow.obj
+         Debug\Utility.obj
+         Debug\ZTimer.obj
+         LINK : 没有找到 D:\Project\ObjDetect\Bin\Debug\\目标识别.exe 或上一个增量链接没有生成它；正在执行完全链接
+         ObjDetect.vcxproj -> D:\Project\ObjDetect\Bin\Debug\目标识别.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Project\ObjDetect\Bin\Debug\\目标识别.exe;#1" /manifest "Debug\目标识别.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ObjDetect.unsuccessfulbuild”。
+         正在对“Debug\ObjDetect.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Project\ObjDetect\ObjDetect\ObjDetect.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.39

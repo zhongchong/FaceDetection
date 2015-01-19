@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ObjDetect">
+        <file>Resources/eye.ico</file>
+    </qresource>
+</RCC>

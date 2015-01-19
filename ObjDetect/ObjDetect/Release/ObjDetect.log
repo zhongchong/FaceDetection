@@ -1,0 +1,38 @@
+﻿生成启动时间为 2015/1/17 12:26:18。
+     1>项目“D:\Project\ObjDetect\ObjDetect\ObjDetect.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ObjDetect.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Uic'ing objdetect.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.8.6\include /I.\GeneratedFiles\Release /IC:\Qt\4.8.6\include\QtCore /IC:\Qt\4.8.6\include\QtGui /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_MainWindow.cpp MainWindow.cpp main.cpp
+         moc_MainWindow.cpp
+         MainWindow.cpp
+         main.cpp
+         正在生成代码...
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\ObjDetect\Bin\Release\\目标识别.exe" /NOLOGO /LIBPATH:C:\Qt\4.8.6\lib qtmain.lib QtCore4.lib QtGui4.lib opencv_core249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_objdetect249.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\目标识别.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"D:\Project\ObjDetect\Bin\Release\目标识别.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\ObjDetect\Bin\Release\目标识别.lib" /MACHINE:X86 Release\eye.res
+         Release\version.res
+         Release\FaceDetector.obj
+         Release\qrc_objdetect.obj
+         Release\moc_MainWindow.obj
+         Release\main.obj
+         Release\MainWindow.obj
+         Release\Pedestrian.obj
+         Release\Utility.obj
+         Release\ZTimer.obj
+         ObjDetect.vcxproj -> D:\Project\ObjDetect\Bin\Release\目标识别.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Project\ObjDetect\Bin\Release\\目标识别.exe;#1" /manifest "Release\目标识别.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\ObjDetect.unsuccessfulbuild”。
+         正在对“Release\ObjDetect.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Project\ObjDetect\ObjDetect\ObjDetect.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.40
