@@ -3,4 +3,4 @@ Object Detection Demo
 
 Author: Zhong Chong
 
-Description: A demo to be detect face or pedestrian
+Description: A demo shown to detect face or pedestrian in a image
