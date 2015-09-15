@@ -1,6 +1,5 @@
-# ObjDetect
-Object Detection Demo
+FaceDetection
 
 Author: Zhong Chong
 
-Description: A demo shown to detect face or pedestrian in a image
+Description: A demo to detect human face in a single image
